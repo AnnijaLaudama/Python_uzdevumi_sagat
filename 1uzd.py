@@ -42,4 +42,4 @@ skaitlis=2023
 #definējam objektu
 KK=AAA()
 # jaunajam objekta jāizsauc
-print=f"šis {skaitlis} ir romiešu cipariem {}"
+print=f"šis {skaitlis} ir romiešu cipariem"
